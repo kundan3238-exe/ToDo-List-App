@@ -33,7 +33,6 @@ body {
     animation: fadeUp 0.8s ease;
 }
 
-/* Header */
 .header h1 {
     font-size: 26px;
     text-align: center;
@@ -46,7 +45,7 @@ body {
     color: #bbb;
 }
 
-/* Input */
+/* Input Section */
 .input-section {
     display: flex;
     gap: 10px;
@@ -130,7 +129,6 @@ li button:hover {
     transform: scale(1.4);
 }
 
-/* Animations */
 @keyframes fadeUp {
     from {
         opacity: 0;
